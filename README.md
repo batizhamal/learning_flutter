@@ -1,6 +1,6 @@
-# intro
+# learning_flutter
 
-A new Flutter project.
+A new Flutter project. This project is a process of learning by following flutter documentation.
 
 ## Getting Started
 
